@@ -10,6 +10,7 @@ addpath(genpath('~/programs/seismo/matlab/base/m_plot/colour/'))
 % 1. Colourbar for independently drawn lines and points
 % 2. Colourbar for scatter, surface and image plots
 
+% http://www.science.earthjay.com/instruction/HSU/2017_spring/GEOL_308L/labs/lab_07/ShakeMapManual.pdf
 
 
 %% 1. Colourbar for independently drawn lines and points

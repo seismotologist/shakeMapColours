@@ -10,7 +10,8 @@ if nargin<1; mmi = 1:10; end
 nc = numel(mmi);
 
 % The colours in the original colour map are the colours of the 11 edges of
-% the 10 bins, evenly spaced from 0.5 to 10.5
+% the 10 bins, evenly spaced from 0.5 to 10.5. From
+% http://www.science.earthjay.com/instruction/HSU/2017_spring/GEOL_308L/labs/lab_07/ShakeMapManual.pdf
 cmap = 1/255*[255 255 255
               191 204 255
               160 230 255
